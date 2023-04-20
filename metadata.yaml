@@ -1,0 +1,42 @@
+_repo: The-history-of-the-damnable-life-and-deserved-death-of-Doctor-John-Faustus-1592-together-with__70359
+_version: 0.0.1
+alternative_title: Historia von Doctor Johann Fausten. English
+creator:
+  editor:
+    agent_name: Rose, William
+    aliases:
+    - Rose, W. (William)
+    - Firth, Moray
+    birthdate: 1894
+    deathdate: 1961
+    gutenberg_agent_id: '55724'
+    url: http://www.gutenberg.org/2009/agents/55724
+description: The historie of the damnable life, and deserved death of Doctor John
+  Faustus, given here in modernized spelling, was first published in 1592 as a translation
+  of Historia von Doctor Johann Fausten. The second report of Doctor John Faustus
+  is an anonymous English work first published in 1594; reprinted here also wth modern
+  spelling.
+gutenberg_issued: '2023-03-24'
+identifiers:
+  gutenberg: '70359'
+  lccn: '26014192'
+language: en
+pgterms:marc904: https://archive.org/details/historyofdamnabl0000unse
+pgterms:marc905: 20210907081727rose
+pgterms:marc906: '1925'
+pgterms:marc907: GB
+production_note: deaurider, Brian Wilsden and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bGeorge Routledge & Sons, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Faust, -approximately 1540 -- Legends'
+- !lcc 'PT'
+- GITenberg
+title: The history of the damnable life and deserved death of Doctor John Faustus,
+  1592, together with The second report of Faustus, containing his appearances and
+  the deeds of Wagner, 1594.
+url: http://www.gutenberg.org/ebooks/70359

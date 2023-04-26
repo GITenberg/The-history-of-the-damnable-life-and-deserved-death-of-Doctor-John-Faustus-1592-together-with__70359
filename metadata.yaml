@@ -1,6 +1,9 @@
 _repo: The-history-of-the-damnable-life-and-deserved-death-of-Doctor-John-Faustus-1592-together-with__70359
 _version: 0.1.0
 alternative_title: Historia von Doctor Johann Fausten. English
+covers:
+- cover_type: archival
+  image_path: 70359-h/images/cover.jpg
 creator:
   editor:
     agent_name: Rose, William
@@ -16,6 +19,8 @@ description: The historie of the damnable life, and deserved death of Doctor Joh
   of Historia von Doctor Johann Fausten. The second report of Doctor John Faustus
   is an anonymous English work first published in 1594; reprinted here also wth modern
   spelling.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70359#The-history-of-the-damnable-life-and-deserved-death-of-Doctor-John-Faustus-1592-together-with_
 gutenberg_issued: '2023-03-24'
 identifiers:
   gutenberg: '70359'
